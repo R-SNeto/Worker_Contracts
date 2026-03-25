@@ -57,7 +57,7 @@ Worker_Contracts/
 # ⚙️ Como Executar
 1. Clone o repositório
 2. Abra na sua IDE (IntelliJ, Eclipse, etc.)
-3. Execute a classe Program
+3. Execute a classe Main
 ---
 
 # ENGLISH 
@@ -121,4 +121,4 @@ Worker_Contracts/
 ## ⚙️ How to Run
 1. Clone the repository
 2. Open it in your IDE (IntelliJ, Eclipse, etc.)
-3. Run the Program class
+3. Run the Main class
