@@ -22,7 +22,8 @@ Demonstrar na prática conceitos importantes de orientação a objetos, incluind
 Worker_Contracts/
 │
 ├── application/
-│   └── Program.java
+│   └── Main.java
+│   └── MainUI.java   
 │
 ├── entities/
 │   ├── Worker.java
@@ -85,7 +86,8 @@ To demonstrate important OOP concepts, including:
 Worker_Contracts/
 │
 ├── application/
-│   └── Program.java
+│   └── Main.java
+│   └── MainUI.java   
 │
 ├── entities/
 │   ├── Worker.java
